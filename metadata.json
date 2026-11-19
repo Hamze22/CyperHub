@@ -1,0 +1,6 @@
+{
+  "name": "AegisCyber AI – Cybersecurity Super Platform",
+  "description": "The unified AI-powered cybersecurity super platform: AI Academy with 34 specializations & AI tutor, interactive Cyber Lab with virtual terminal & CTF engine, verified Expert & Tools Marketplace, and Enterprise Business Security Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

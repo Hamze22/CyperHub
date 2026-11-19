@@ -1,0 +1,1177 @@
+# MASTER PROJECT PROMPT – AI-POWERED CYBERSECURITY SUPER PLATFORM
+
+## 1. PROJECT OVERVIEW
+
+Build a complete, modern, professional, scalable, AI-powered Cybersecurity Super Platform that combines three major products into one unified ecosystem:
+
+1. AI Cybersecurity Academy – Learn all major cybersecurity disciplines through AI-powered education.
+2. AI Cyber Lab – Practice cybersecurity through interactive tasks, virtual terminals, coding environments, simulations, and ready-made security tools.
+3. Cybersecurity Marketplace – Allow companies to hire verified cybersecurity professionals, purchase security services, and access ready-made cybersecurity tools.
+
+The platform must serve three main user groups:
+
+- Students and cybersecurity learners.
+- Cybersecurity professionals and ethical hackers.
+- Companies, organizations, businesses, and enterprise customers.
+
+The main objective is to create an ecosystem where people can learn cybersecurity, practice real-world skills in controlled environments, become certified professionals, and get hired by companies, while businesses can access professional cybersecurity services and security tools.
+
+The platform must be designed as a premium global SaaS product, not just an ordinary educational website.
+
+## 2. MAIN PLATFORM DESIGN
+
+Create one unified platform with three major modules:
+
+### MODULE 01 – AI CYBERSECURITY ACADEMY
+
+Build a complete AI-powered cybersecurity learning management system.
+
+A. Cybersecurity Courses and Specializations
+
+Include the following learning categories:
+
+- Ethical Hacking
+- Penetration Testing
+- Network Security
+- Web Application Security
+- API Security
+- Cloud Security
+- AWS Security
+- Azure Security
+- Linux Security
+- Windows Security
+- Mobile Application Security
+- Android Security
+- iOS Security
+- Artificial Intelligence Security
+- LLM Security
+- Malware Analysis
+- Digital Forensics
+- Cryptography
+- SOC Analyst Training
+- Security Operations
+- Threat Intelligence
+- Incident Response
+- Vulnerability Assessment
+- DevSecOps
+- Secure Software Development
+- Database Security
+- Wireless Network Security
+- Identity and Access Management
+- Zero Trust Security
+- Security Auditing
+- Governance, Risk and Compliance (GRC)
+- Privacy and Data Protection
+- Blockchain Security
+- Reverse Engineering
+
+Organize every specialization into:
+
+- Beginner
+- Intermediate
+- Advanced
+- Professional
+
+B. AI Personal Tutor
+
+Integrate an intelligent AI tutor available 24/7.
+
+The AI tutor must:
+
+- Explain cybersecurity topics step by step.
+- Answer technical questions.
+- Explain commands and programming code.
+- Generate personalized learning paths.
+- Provide examples and practical demonstrations.
+- Analyze students' answers.
+- Generate quizzes and examinations.
+- Identify weaknesses and recommend lessons.
+- Provide hints when students are stuck.
+- Explain why an answer is correct or incorrect.
+- Support practical cybersecurity exercises.
+- Track learning progress.
+- Support multiple languages.
+- Allow students to ask questions through an AI chat interface.
+
+Allow integration with OpenAI, Google Gemini, and other compatible AI providers through a configurable AI model management system.
+
+C. Learning Management System
+
+Include:
+
+- Course catalog.
+- Course descriptions.
+- Video lessons.
+- Text-based lessons.
+- Downloadable learning resources.
+- Practical exercises.
+- Assignments.
+- Quizzes.
+- Final examinations.
+- Student progress tracking.
+- Learning history.
+- Bookmarks.
+- Course completion certificates.
+- Student achievements.
+- Learning streaks.
+- Leaderboards.
+- Personalized recommendations.
+- Instructor profiles.
+- Student dashboards.
+
+D. Certification System
+
+Create a certification system where students receive certificates after successfully completing approved courses and assessments.
+
+Certificates must include:
+
+- Student name.
+- Course or specialization.
+- Certificate ID.
+- Completion date.
+- Verification URL.
+- QR code.
+- Issuing organization.
+
+Provide a public certificate verification page.
+
+Clearly distinguish platform-issued completion certificates from independently accredited professional certifications.
+
+---
+
+## 3. MODULE 02 – AI CYBER LAB
+
+Build a professional interactive cybersecurity practice environment.
+
+This module must be one of the platform's most important features.
+
+### A. Interactive Web Terminal
+
+Create a browser-based terminal where students and authorized professionals can execute commands in isolated virtual environments.
+
+Terminal requirements:
+
+- Linux terminal.
+- Kali Linux learning environment.
+- Ubuntu environment.
+- Python execution.
+- Bash scripting.
+- Command-line interface.
+- File and directory management.
+- Code editor.
+- Multiple terminal sessions.
+- Command history.
+- Terminal output.
+- Error messages.
+- Session management.
+- Copy and paste.
+- Reset environment.
+- Save practice sessions.
+
+The terminal must run through secure, isolated containers or virtual machines rather than directly executing untrusted commands on the main application server.
+
+### B. AI Terminal Assistant
+
+Integrate an AI assistant directly into the terminal interface.
+
+The AI assistant must:
+
+- Explain terminal commands.
+- Explain command outputs.
+- Help users understand errors.
+- Suggest appropriate commands.
+- Explain Linux tools.
+- Help write Python scripts.
+- Debug scripts.
+- Explain security concepts.
+- Provide step-by-step learning guidance.
+- Generate hints for tasks.
+- Explain scan results.
+- Recommend defensive improvements.
+
+Provide an AI assistance panel beside the terminal so users can work and communicate with AI simultaneously.
+
+### C. Practical Task Engine
+
+Create a practical task and challenge system.
+
+Include tasks such as:
+
+1. Network discovery in a simulated lab.
+2. Identify open ports in a practice network.
+3. Analyze network traffic.
+4. Investigate suspicious server logs.
+5. Identify website vulnerabilities in intentionally vulnerable applications.
+6. Find and fix SQL Injection vulnerabilities.
+7. Understand Cross-Site Scripting.
+8. Secure vulnerable APIs.
+9. Analyze malware samples in a sandbox.
+10. Investigate simulated security incidents.
+11. Perform cloud security configuration checks.
+12. Identify weak security configurations.
+13. Analyze authentication weaknesses.
+14. Perform source-code security reviews.
+15. Implement secure coding practices.
+16. Conduct simulated penetration testing.
+17. Perform vulnerability remediation.
+18. Investigate digital forensic evidence.
+
+Every task must include:
+
+- Task title.
+- Description.
+- Learning objectives.
+- Difficulty level.
+- Instructions.
+- Required tools.
+- Dedicated practice environment.
+- Terminal access where applicable.
+- AI assistance.
+- Hints.
+- Submission system.
+- Automatic grading where possible.
+- Score.
+- Completion status.
+- Performance history.
+
+### D. Capture The Flag (CTF)
+
+Build a complete CTF environment.
+
+Include:
+
+- Beginner challenges.
+- Intermediate challenges.
+- Advanced challenges.
+- Web security challenges.
+- Network security challenges.
+- Cryptography challenges.
+- Forensics challenges.
+- Reverse engineering challenges.
+- Linux challenges.
+- Secure coding challenges.
+
+Include:
+
+- Challenge descriptions.
+- Flag submission.
+- Scoring system.
+- Timed competitions.
+- Individual rankings.
+- Team competitions.
+- Leaderboards.
+- Achievement badges.
+- Challenge history.
+
+### E. Ready-Made Cybersecurity Tools Library
+
+Build a dedicated tools library with professional cybersecurity utilities.
+
+Organize tools into categories.
+
+**Network Security Tools**
+- Nmap
+- Wireshark
+- tcpdump
+- Netcat
+
+**Web Application Security**
+- OWASP ZAP
+- Burp Suite integration
+- Nikto
+- SQLMap for authorized training labs
+
+**Penetration Testing**
+- Metasploit Framework in isolated labs
+- Hydra in controlled authentication exercises
+- Gobuster
+- John the Ripper in password-auditing labs
+
+**Code Security**
+- Semgrep
+- SonarQube
+- Bandit
+- Trivy
+
+**Cloud Security**
+- Prowler
+- ScoutSuite
+- Cloud configuration assessment utilities
+
+**Digital Forensics**
+- Autopsy
+- Volatility
+- YARA
+- File analysis utilities
+
+**Additional Tools**
+- Linux utilities.
+- Python security libraries.
+- SSL/TLS inspection.
+- DNS analysis.
+- HTTP analysis.
+- Password-strength auditing.
+- Security configuration checkers.
+
+For every tool provide:
+
+- Tool name.
+- Official description.
+- Category.
+- Logo or icon.
+- Main purpose.
+- Documentation.
+- Installation instructions.
+- Usage tutorials.
+- Supported environments.
+- Beginner guides.
+- Practical examples.
+- AI explanation.
+- Launch or open tool option when supported.
+
+Support free and premium tools.
+
+Important: Do not simply display non-functional tool cards. Integrate actual tools through secure execution environments, approved APIs, downloadable packages, or documented external integrations. Clearly label tools that are only informational integrations.
+
+### F. Security Lab Infrastructure
+
+Create isolated practice environments using containerized or virtualized infrastructure.
+
+Include:
+
+- Docker-based labs.
+- Dedicated practice networks.
+- Intentionally vulnerable applications.
+- Temporary lab sessions.
+- Automatic environment reset.
+- Session expiration.
+- Resource limits.
+- CPU and memory limits.
+- Secure file storage.
+- Activity logging.
+
+All offensive security exercises must be restricted to owned, authorized, or intentionally vulnerable lab targets. Implement target authorization, network restrictions, execution policies, abuse detection, and audit logging.
+
+---
+
+## 4. MODULE 03 – CYBERSECURITY MARKETPLACE
+
+Create a professional marketplace connecting cybersecurity professionals with companies.
+
+This module must include two major services:
+
+A. Hire Cybersecurity Experts.
+
+B. Cybersecurity Tools Marketplace.
+
+### A. Hire Cybersecurity Professionals
+
+Build a professional recruitment and freelance marketplace.
+
+Companies must be able to discover, evaluate, hire, and manage cybersecurity professionals.
+
+Include the following job categories:
+
+- Ethical Hacker.
+- Penetration Tester.
+- Cybersecurity Analyst.
+- SOC Analyst.
+- Network Security Engineer.
+- Cloud Security Engineer.
+- Application Security Engineer.
+- API Security Specialist.
+- Security Auditor.
+- Vulnerability Assessment Specialist.
+- Incident Response Specialist.
+- Digital Forensics Expert.
+- Malware Analyst.
+- Security Consultant.
+- DevSecOps Engineer.
+- Security Researcher.
+- GRC Specialist.
+
+### B. Professional Profiles
+
+Every cybersecurity expert must have a professional profile.
+
+Include:
+
+- Full name.
+- Profile photograph.
+- Professional title.
+- Country.
+- Location.
+- Biography.
+- Technical skills.
+- Specializations.
+- Experience.
+- Education.
+- Certificates.
+- Verified achievements.
+- Portfolio.
+- Completed projects.
+- Client reviews.
+- Ratings.
+- Hourly rate.
+- Fixed project rate.
+- Availability status.
+- Languages.
+- Employment preferences.
+
+Provide verified professional badges after appropriate identity, skill, and credential checks.
+
+### C. Company Hiring Portal
+
+Companies must be able to:
+
+- Register company accounts.
+- Create company profiles.
+- Publish job listings.
+- Post cybersecurity projects.
+- Search professionals.
+- Filter experts by skills.
+- Filter by experience.
+- Filter by certificates.
+- Review portfolios.
+- Receive applications.
+- Receive proposals.
+- Contact professionals.
+- Schedule interviews.
+- Hire experts.
+- Create contracts.
+- Manage projects.
+- Review completed work.
+- Submit ratings.
+- Manage invoices and payments.
+
+Support:
+
+- Freelance jobs.
+- Full-time jobs.
+- Part-time jobs.
+- Remote jobs.
+- Contract-based projects.
+- One-time security audits.
+- Long-term cybersecurity services.
+
+### D. Expert Application System
+
+Professionals must be able to:
+
+- Browse available jobs.
+- Apply for jobs.
+- Submit proposals.
+- Set project prices.
+- Attach portfolios.
+- Communicate with companies.
+- Track applications.
+- Manage contracts.
+- Submit project deliverables.
+- Receive payments.
+- Build professional reputation.
+
+### E. Project Management
+
+Build a complete project workspace for companies and hired experts.
+
+Include:
+
+- Project overview.
+- Project requirements.
+- Assigned professionals.
+- Project milestones.
+- Deadlines.
+- Task management.
+- Secure messaging.
+- File sharing.
+- Deliverable submission.
+- Progress tracking.
+- Approval system.
+- Invoice management.
+- Payment history.
+
+For sensitive security projects, provide secure file access, restricted permissions, and complete audit logs.
+
+### F. Cybersecurity Tools Marketplace
+
+Build a separate marketplace for ready-made cybersecurity tools and software.
+
+Include:
+
+- Free cybersecurity tools.
+- Premium cybersecurity tools.
+- AI-powered security applications.
+- Vulnerability scanners.
+- API security tools.
+- Network monitoring tools.
+- Cloud security utilities.
+- Code analysis tools.
+- Threat intelligence tools.
+- Security automation tools.
+- Compliance tools.
+
+Each product must have:
+
+- Product name.
+- Logo.
+- Description.
+- Screenshots.
+- Features.
+- Category.
+- Developer or vendor.
+- Pricing.
+- Free trial where available.
+- Subscription options.
+- Documentation.
+- Reviews.
+- Ratings.
+- Support information.
+- Purchase or subscription functionality.
+
+Allow verified third-party developers to submit tools for review and approval before publishing.
+
+Support:
+
+- Free tools.
+- Paid downloads.
+- Monthly subscriptions.
+- Annual subscriptions.
+- Enterprise licenses.
+- Platform-owned tools.
+- Third-party integrations.
+
+The platform must support legitimate security software and must not distribute malware, credential-stealing software, or unauthorized surveillance products.
+
+---
+
+## 5. AI INTELLIGENCE SYSTEM
+
+Build one central AI intelligence layer connecting all three modules.
+
+The AI system must have separate capabilities for:
+
+**AI Education Agent**
+- Teach cybersecurity.
+- Create courses.
+- Explain concepts.
+- Generate quizzes.
+- Evaluate student progress.
+
+**AI Terminal Agent**
+- Explain commands.
+- Debug scripts.
+- Analyze terminal outputs.
+- Guide practical exercises.
+
+**AI Security Analysis Agent**
+- Analyze authorized vulnerability scan results.
+- Interpret security findings.
+- Prioritize risks.
+- Explain vulnerabilities.
+- Suggest remediation.
+- Generate security reports.
+
+**AI Career Agent**
+- Analyze professional skills.
+- Recommend learning paths.
+- Improve professional profiles.
+- Recommend relevant jobs.
+- Help companies identify suitable experts.
+
+**AI Business Assistant**
+- Explain company security reports.
+- Summarize assessment results.
+- Recommend security improvements.
+- Assist with security project management.
+
+Allow administrators to configure AI providers, models, API keys, usage limits, and fallback models.
+
+Include AI usage monitoring and per-user token or credit limits.
+
+AI-generated security findings must be validated where possible and clearly distinguish confirmed vulnerabilities from potential risks.
+
+---
+
+## 6. COMPANY SECURITY SERVICES
+
+In addition to the marketplace, provide a dedicated Business Security Portal.
+
+Companies should be able to purchase professional cybersecurity services, including:
+
+- Website Security Assessment.
+- API Security Assessment.
+- Network Security Assessment.
+- Cloud Security Audit.
+- Vulnerability Assessment.
+- Web Application Penetration Testing.
+- Source Code Security Review.
+- Database Security Review.
+- Security Configuration Audit.
+- Incident Response Consulting.
+- Security Awareness Training.
+- Continuous Security Monitoring.
+
+### Business Security Dashboard
+
+Include:
+
+- Company security overview.
+- Registered assets.
+- Verified domains.
+- Authorized targets.
+- Security assessment history.
+- Vulnerability findings.
+- Risk severity.
+- Remediation status.
+- Security recommendations.
+- Downloadable PDF reports.
+- Assigned security professionals.
+- Subscription information.
+- Billing history.
+- Security alerts.
+
+Provide a secure authorization workflow before any external asset is tested.
+
+Support continuous monitoring only for explicitly authorized assets and within defined testing limits.
+
+---
+
+## 7. USER ROLES AND PERMISSIONS
+
+Implement role-based access control.
+
+**Role 1 – Student**
+- Access courses.
+- Use AI tutor.
+- Complete tasks.
+- Access authorized labs.
+- Use available tools.
+- Track progress.
+- Earn certificates.
+
+**Role 2 – Cybersecurity Expert**
+- Access professional dashboard.
+- Create profiles.
+- Manage portfolios.
+- Access approved professional tools.
+- Apply for jobs.
+- Manage contracts.
+- Receive payments.
+
+**Role 3 – Company**
+- Create company accounts.
+- Hire experts.
+- Publish projects.
+- Purchase security services.
+- Access security reports.
+- Manage subscriptions.
+- Manage company employees.
+
+**Role 4 – Instructor**
+- Create courses.
+- Manage lessons.
+- Create assignments.
+- Evaluate students.
+- Track learning performance.
+
+**Role 5 – Tool Developer/Vendor**
+- Submit tools.
+- Manage products.
+- Update listings.
+- Track subscriptions.
+- View sales.
+
+**Role 6 – Administrator**
+- Full platform management.
+- Manage users.
+- Manage companies.
+- Manage experts.
+- Approve courses.
+- Approve tools.
+- Manage payments.
+- Manage subscriptions.
+- Manage AI integrations.
+- Manage security policies.
+- View audit logs.
+- Manage platform settings.
+
+---
+
+## 8. SUBSCRIPTIONS AND MONETIZATION
+
+Create a flexible subscription and payment system.
+
+Suggested initial pricing:
+
+**Student Plans**
+- Free: Limited courses and AI usage.
+- Basic: $5/month.
+- Pro: $15/month.
+- Advanced Lab: $25/month.
+
+**Professional Plans**
+- Free professional profile.
+- Pro Expert: $10/month.
+- Professional tools access: Additional subscription options.
+
+**Company Plans**
+- Business Starter: $99/month.
+- Business Professional: $299/month.
+- Enterprise: Custom pricing.
+
+**Marketplace Revenue**
+- 10–15% commission on completed expert projects.
+- Commission on third-party tools.
+- Premium software subscriptions.
+- Security assessment service fees.
+
+Allow administrators to change all prices and commission percentages.
+
+Include:
+- Payment gateway integration.
+- Subscription management.
+- Invoices.
+- Payment history.
+- Refund management.
+- Discount coupons.
+- Free trials.
+- Billing notifications.
+- Usage limits.
+
+Design payment integrations to support international payment providers and additional regional gateways.
+
+---
+
+## 9. UI/UX DESIGN AND USER EXPERIENCE
+
+Create a premium, modern, professional cybersecurity SaaS interface.
+
+Design inspiration:
+- Professional enterprise security dashboards.
+- Modern developer platforms.
+- Advanced SaaS applications.
+- Professional learning management systems.
+- Modern cybersecurity command centers.
+
+### Visual Style
+
+Use:
+- Dark navy and deep charcoal backgrounds.
+- Electric blue accents.
+- Cyan highlights.
+- White and light-gray text.
+- Subtle gradients.
+- Clean typography.
+- Professional icons.
+- Modern charts.
+- Glass-like elements used sparingly.
+- Smooth transitions.
+- Responsive layouts.
+
+Do not create an overly complicated or visually cluttered interface.
+
+The design must look like a serious international technology company.
+
+### Main Public Website
+
+Create:
+
+1. Home page.
+2. About page.
+3. Academy page.
+4. Cyber Lab page.
+5. Tools Library page.
+6. Marketplace page.
+7. Hire Experts page.
+8. Business Security page.
+9. Pricing page.
+10. Contact page.
+11. Documentation page.
+12. Login page.
+13. Registration page.
+
+### Navigation
+
+Main navigation:
+
+- Home.
+- Academy.
+- Cyber Lab.
+- Tools.
+- Hire Experts.
+- Marketplace.
+- Business Security.
+- Pricing.
+- Login.
+- Get Started.
+
+### Responsive Design
+
+Ensure full responsiveness for:
+
+- Desktop computers.
+- Laptops.
+- Tablets.
+- Mobile phones.
+
+The terminal, code editor, AI assistant, tables, and dashboards must have optimized mobile layouts.
+
+---
+
+## 10. DATABASE AND BACKEND ARCHITECTURE
+
+Build a scalable backend and database structure.
+
+Recommended technologies:
+
+Frontend:
+- Next.js.
+- React.
+- TypeScript.
+- Tailwind CSS.
+
+Backend:
+- Python.
+- FastAPI.
+- REST APIs.
+
+Database:
+- PostgreSQL.
+- Supabase.
+
+Authentication:
+- Supabase Auth.
+- Google authentication.
+- Email and password.
+- Role-based authorization.
+
+Storage:
+- Supabase Storage.
+- Secure document storage.
+
+AI:
+- OpenAI API.
+- Google Gemini API.
+- Configurable AI provider integrations.
+
+Cyber Lab:
+- Docker.
+- Isolated virtual environments.
+- Secure execution workers.
+
+Security Tools:
+- OWASP ZAP.
+- Nmap.
+- Wireshark.
+- Semgrep.
+- Trivy.
+- Other approved security integrations.
+
+Create well-structured database tables for:
+
+- Users.
+- Profiles.
+- Roles.
+- Permissions.
+- Companies.
+- Company members.
+- Courses.
+- Categories.
+- Lessons.
+- Enrollments.
+- Assignments.
+- Quizzes.
+- Certificates.
+- Learning progress.
+- AI conversations.
+- AI usage.
+- Labs.
+- Lab sessions.
+- Terminal sessions.
+- Tasks.
+- CTF challenges.
+- CTF submissions.
+- Tools.
+- Tool vendors.
+- Tool subscriptions.
+- Expert profiles.
+- Skills.
+- Jobs.
+- Job applications.
+- Proposals.
+- Contracts.
+- Projects.
+- Project milestones.
+- Deliverables.
+- Reviews.
+- Security assets.
+- Authorization records.
+- Security assessments.
+- Vulnerability findings.
+- Reports.
+- Payments.
+- Invoices.
+- Subscriptions.
+- Notifications.
+- Audit logs.
+
+Implement database relationships, indexes, access policies, and data validation.
+
+---
+
+## 11. SECURITY AND PLATFORM PROTECTION
+
+Security is a core requirement of this project.
+
+Implement:
+
+- Secure authentication.
+- Multi-factor authentication.
+- Role-based access control.
+- Row Level Security.
+- Secure API endpoints.
+- Input validation.
+- Rate limiting.
+- CSRF protection where applicable.
+- XSS protection.
+- Secure session management.
+- Encryption in transit.
+- Encryption for sensitive stored information.
+- Secure secrets management.
+- Audit logging.
+- Backup and recovery.
+- File upload validation.
+- Malware scanning for uploaded files.
+- Abuse detection.
+- Security monitoring.
+- Admin access restrictions.
+
+For the Cyber Lab:
+
+- Isolate every user session.
+- Restrict outbound network access by default.
+- Prevent unauthorized external scanning.
+- Apply CPU, RAM and execution-time limits.
+- Automatically terminate expired sessions.
+- Log tool execution.
+- Separate lab infrastructure from production infrastructure.
+- Use disposable practice environments.
+- Require explicit authorization for company asset testing.
+
+The platform must never allow unauthorized attacks against external systems.
+
+---
+
+## 12. ADMINISTRATOR DASHBOARD
+
+Create a comprehensive administrative dashboard.
+
+Include:
+
+- Total users.
+- Active students.
+- Active experts.
+- Registered companies.
+- Total courses.
+- Course enrollments.
+- Active lab sessions.
+- Tools inventory.
+- Marketplace transactions.
+- Job listings.
+- Completed projects.
+- Company security assessments.
+- Monthly revenue.
+- Subscription statistics.
+- AI API usage.
+- AI costs.
+- Server resource usage.
+- Security alerts.
+- Audit logs.
+
+Admin management tools:
+
+- User management.
+- Role management.
+- Company verification.
+- Expert verification.
+- Course management.
+- Instructor management.
+- Tool approval.
+- Marketplace moderation.
+- Job moderation.
+- Payment management.
+- Subscription management.
+- AI model configuration.
+- API key management.
+- Usage limits.
+- Platform configuration.
+- Security policies.
+- Notification management.
+
+---
+
+## 13. NOTIFICATIONS AND COMMUNICATION
+
+Create a centralized notification system.
+
+Support:
+
+- In-app notifications.
+- Email notifications.
+- Job application updates.
+- Hiring notifications.
+- Project updates.
+- Payment confirmations.
+- Subscription reminders.
+- Course updates.
+- Assignment deadlines.
+- Certificate notifications.
+- Security alerts.
+- Lab session notifications.
+
+Include secure messaging between companies and professionals.
+
+---
+
+## 14. ANALYTICS AND REPORTING
+
+Provide analytics dashboards for each user type.
+
+Students:
+- Learning progress.
+- Course completion.
+- Assessment scores.
+- Lab performance.
+- Skills development.
+
+Professionals:
+- Profile views.
+- Job applications.
+- Contracts.
+- Project performance.
+- Earnings.
+- Reviews.
+
+Companies:
+- Security assessment results.
+- Vulnerability trends.
+- Project performance.
+- Expert hiring activity.
+- Security improvement history.
+
+Administrators:
+- Platform growth.
+- Revenue.
+- User activity.
+- AI usage and expenses.
+- Subscription performance.
+- Marketplace statistics.
+
+---
+
+## 15. DEVELOPMENT PHASES
+
+Build the project in organized development phases.
+
+**Phase 1 – Core Platform**
+- Main website.
+- Authentication.
+- User profiles.
+- Database.
+- Role-based dashboards.
+- Admin dashboard.
+
+**Phase 2 – AI Cybersecurity Academy**
+- Course system.
+- AI tutor.
+- Lessons.
+- Quizzes.
+- Assignments.
+- Certificates.
+- Student progress.
+
+**Phase 3 – AI Cyber Lab**
+- Browser terminal.
+- Isolated Docker environments.
+- AI terminal assistant.
+- Practical tasks.
+- CTF system.
+- Tools library.
+- Lab management.
+
+**Phase 4 – Cybersecurity Marketplace**
+- Expert profiles.
+- Company profiles.
+- Job listings.
+- Applications.
+- Proposals.
+- Hiring.
+- Contracts.
+- Project management.
+- Reviews.
+
+**Phase 5 – Tools Marketplace**
+- Tools catalog.
+- Vendor accounts.
+- Product submissions.
+- Product approval.
+- Subscriptions.
+- Payments.
+
+**Phase 6 – Business Security**
+- Company portal.
+- Authorized asset registration.
+- Security assessments.
+- Vulnerability reporting.
+- PDF reports.
+- Security recommendations.
+- Continuous authorized monitoring.
+
+**Phase 7 – AI Intelligence**
+- AI education agent.
+- AI terminal agent.
+- AI security analysis agent.
+- AI career agent.
+- AI business assistant.
+- AI provider configuration.
+
+**Phase 8 – Production Readiness**
+- Security testing.
+- Performance optimization.
+- Database optimization.
+- Mobile optimization.
+- Backup systems.
+- Monitoring.
+- Error handling.
+- Deployment.
+- Documentation.
+
+---
+
+## 16. IMPORTANT IMPLEMENTATION INSTRUCTIONS
+
+Do not build only a static UI or a visual prototype.
+
+Build a functional application with real authentication, database integration, working navigation, actual user dashboards, backend APIs, AI integration points, and functional business workflows.
+
+Do not display fake statistics as real data.
+
+Do not show buttons that do nothing.
+
+If an integration requires an API key, server configuration, external service, or additional infrastructure, create the integration structure and clearly show its configuration status.
+
+Do not pretend that a terminal, security scanner, payment gateway, certificate, or AI agent is operational when it has not been connected and tested.
+
+Use modular architecture so every major module can be developed, tested, upgraded, and maintained independently.
+
+Prioritize secure architecture and working functionality over decorative features.
+
+Start by establishing the complete project architecture, shared design system, database schema, authentication, and three main module dashboards.
+
+Then develop each module in phases without breaking existing functionality.
+
+The final result must be a unified, professional, scalable AI-powered Cybersecurity ecosystem connecting education, practical security training, cybersecurity tools, professional talent, and enterprise security services.
+
+**PRODUCT VISION:**
+
+Create a global platform where anyone can learn cybersecurity with AI, practice through real technical environments, develop professional skills, access security tools, and find employment — while companies can hire cybersecurity experts and protect their digital infrastructure through one platform.
